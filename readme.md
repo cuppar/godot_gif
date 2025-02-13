@@ -1,6 +1,7 @@
 # Godot GIF Project
 
-This is a Godot gif project containing various GIF images created using Aseprite. Below is a list of all the GIF images in this project.
+This is a Godot gif project containing various GIF images created using Aseprite and the Aseprite source file. 
+Below is a list of all the GIF images in this project.
 
 ## GIF Images
 
