@@ -6,6 +6,22 @@ Below is a list of all the GIF images in this project.
 
 ## GIF Images
 
+### **smile.gif**
+
+![smile](./gif/smile.gif)
+
+### **cry.gif**
+
+![cry](./gif/cry.gif)
+
+### **yes.gif**
+
+![yes](./gif/yes.gif)
+
+### **no.gif**
+
+![no](./gif/no.gif)
+
 ### **idle.gif**
 
 ![idle](./gif/idle.gif)
@@ -13,15 +29,3 @@ Below is a list of all the GIF images in this project.
 ### **talk.gif**
 
 ![talk](./gif/talk.gif)
-
-### **no.gif**
-
-![no](./gif/no.gif)
-
-### **yes.gif**
-
-![yes](./gif/yes.gif)
-
-### **smile.gif**
-
-![smile](./gif/smile.gif)
