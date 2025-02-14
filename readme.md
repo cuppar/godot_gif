@@ -39,3 +39,7 @@ Below is a list of all the GIF images in this project.
 ### **split.gif**
 
 ![split](./gif/split.gif)
+
+### **laser.gif**
+
+![laser](./gif/laser.gif)
