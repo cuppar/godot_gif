@@ -1,6 +1,8 @@
 # Godot GIF Project
 
-This is a Godot gif project containing various GIF images created using Aseprite and the Aseprite source file. 
+- Open source godot emoji project.
+- More emojis are under development.
+- Aseprite source file included.
 
 Below is a list of all the GIF images in this project.
 
