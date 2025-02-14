@@ -35,3 +35,7 @@ Below is a list of all the GIF images in this project.
 ### **like.gif**
 
 ![like](./gif/like.gif)
+
+### **split.gif**
+
+![split](./gif/split.gif)
