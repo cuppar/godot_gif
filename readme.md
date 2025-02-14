@@ -21,3 +21,7 @@ Below is a list of all the GIF images in this project.
 ### **yes.gif**
 
 ![yes](./gif/yes.gif)
+
+### **smile.gif**
+
+![smile](./gif/smile.gif)
